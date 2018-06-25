@@ -1,2 +1,3 @@
 # LM
-Queda pendiente añadir una web mediante un repositorio de GitHub que permita visualizar las paginas web de los examenes resueltos.
+Los materiales de la asignatura pueden verse de manera grafica, sin necesidad de descarga en: 
+  - https://rsasir.github.io/
