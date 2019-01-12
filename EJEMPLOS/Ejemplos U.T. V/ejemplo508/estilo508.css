@@ -1,0 +1,7 @@
+p:first-letter{
+	font-family:fantasy;
+	font-size:60px;
+	font-weight:bold;
+	color:red;
+	text-transform:uppercase;
+}
